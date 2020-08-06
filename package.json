@@ -1,7 +1,7 @@
 {
   "name": "generate-wav-mp3",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generate wave tones, save as wav, and then encode to mp3",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -13,9 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/arcatdmz/generate-wav-mp3.git"
   },
-  "keywords": [],
+  "keywords": [
+    "wav",
+    "mp3",
+    "lame"
+  ],
   "author": "Jun Kato <i@junkato.jp> (https://junkato.jp)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/arcatdmz/generate-wav-mp3/issues"
   },
