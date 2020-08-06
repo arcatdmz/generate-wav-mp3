@@ -1,0 +1,28 @@
+{
+  "name": "generate-wav-mp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">= 12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcatdmz/generate-wav-mp3.git"
+  },
+  "keywords": [],
+  "author": "Jun Kato <i@junkato.jp> (https://junkato.jp)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcatdmz/generate-wav-mp3/issues"
+  },
+  "homepage": "https://github.com/arcatdmz/generate-wav-mp3#readme",
+  "dependencies": {
+    "lamejs": "^1.2.0",
+    "tonegenerator": "^0.3.2",
+    "waveheader": "0.0.2"
+  }
+}
